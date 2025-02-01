@@ -4,7 +4,7 @@ Bem-vindo ao repositório do projeto **Jogo do Amigo Secreto**! Este é um proje
 
 ## 📋 Descrição
 
-Este projeto permite que você organize um amigo secreto de forma simples. Ele sorteia os participantes. O resultado pode é exibido na tela inicial.
+Este projeto permite que você organize um amigo secreto de forma simples. Ele sorteia os participantes. O resultado é exibido na tela inicial.
 
 ## 🚀 Como usar
 
